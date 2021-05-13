@@ -1,3 +1,3 @@
-require ('./utilities.js')
+const name = require ('./utilities.js')
 
-const name = "Javaria"
+console.log(name)

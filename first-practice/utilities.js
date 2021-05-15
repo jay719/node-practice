@@ -1,5 +1,7 @@
 console.log('util')
 
-const name = "Javaria"
+const add = (a,b){
+    return a + b
+}
 
-module.exports = name
+module.exports = add

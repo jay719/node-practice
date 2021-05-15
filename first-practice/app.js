@@ -1,3 +1,3 @@
-const name = require ('./utilities.js')
+const addition = require ('./utilities.js')
 
-console.log(name)
+add()

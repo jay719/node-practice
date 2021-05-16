@@ -1,3 +1,6 @@
 const addition = require ('./utilities.js')
 
-add()
+const sum = addition(4,-2)
+
+console.log(sum)
+

@@ -1,5 +1,5 @@
 const message = () => {
-    console.log('yeerrrr')
+    return 'yeerrrr'
 }
 
-module.export = message; 
+module.exports = message; 

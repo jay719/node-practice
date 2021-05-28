@@ -10,4 +10,4 @@ const notes = message()
 
 console.log(notes,sum)
 
-console.log(validator.isEmail('andrew@example.com'))
+console.log(validator.isURL('https://mead.i'))

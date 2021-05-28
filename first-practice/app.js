@@ -8,6 +8,6 @@ const sum = addition(4,-2)
 
 const notes = message()
 
-console.log(notes)
+console.log(notes,sum)
 
 console.log(validator.isEmail('andrew@example.com'))
